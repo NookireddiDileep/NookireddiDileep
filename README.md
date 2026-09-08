@@ -1,28 +1,28 @@
 # 🙏 Namaste, I'm Nookireddi Dileep
 
-### Platform Engineer | Kubernetes • OpenShift • GitOps • Terraform • Automation • AI Infrastructure • Autonomous AI Platforms
+### Platform Engineer | Kubernetes • OpenShift • GitOps • Terraform • Linux • AI Infrastructure
 
-I enjoy designing, building, automating, and operating **production-grade enterprise platforms**.
+I build and explore modern infrastructure platforms across **Enterprise Linux, Kubernetes, OpenShift, GitOps, automation, and AI infrastructure**.
 
-With **13+ years of IT experience**, my engineering journey spans **Linux, Platform Engineering, Kubernetes, OpenShift, Infrastructure as Code, GitOps, Observability, Automation, and AI Infrastructure**.
+With **13+ years of IT infrastructure experience**, my engineering journey spans **Linux, VMware Private Cloud, High Performance Computing, Kubernetes, OpenShift, Infrastructure as Code, GitOps, observability, and automation**.
 
-My current focus is evolving traditional platform engineering toward **AI-native infrastructure and Autonomous AI Factory platforms** — where infrastructure, workloads, observability, reliability, security, cost, and operations increasingly work together through **automation, intelligence, and autonomous decision-making**.
+My current focus is evolving from traditional infrastructure engineering toward **cloud-native platform engineering and AI infrastructure**, with hands-on labs and engineering projects covering Kubernetes, containers, GitOps, automation, and GPU infrastructure.
 
-I believe great platforms are built on **strong engineering fundamentals, operational excellence, reliability, automation, and continuous learning** — and the next generation of platforms will combine these principles with **AI-driven and autonomous operations**.
+I believe strong platforms are built on **engineering fundamentals, operational excellence, reliability, automation, and continuous learning**.
 
 ---
 
 ## 🚀 About Me
 
-- 💼 Platform Engineer with **13+ years of IT experience**
-- 🐧 Enterprise Linux Platform Engineering
-- ☸️ Kubernetes & OpenShift Platform Engineering
-- 🏗️ Infrastructure as Code — **Terraform & Ansible**
-- 🔄 GitOps & Platform Automation
-- 📊 Observability, Reliability & SRE Engineering
-- 🤖 AI Infrastructure & AI Platform Operations
-- 🧠 AI-native Infrastructure & Autonomous Operations
-- 🏭 Building toward **Autonomous AI Factory platforms**
-- 🧪 Building production-oriented hands-on engineering labs
-- 📚 Continuously learning, experimenting, and documenting
-- 🌐 Building open-source learning resources for the engineering community
+- 💼 **13+ years** of IT infrastructure experience
+- 🐧 Enterprise **Linux / RHEL** platform engineering
+- ☁️ **VMware Private Cloud** and virtual infrastructure
+- ⚡ **High Performance Computing (HPC)** and InfiniBand
+- ☸️ Hands-on **Kubernetes / K3s** platform engineering
+- 🔴 **OpenShift** learning and hands-on platform administration
+- 🔧 **Terraform, Ansible and automation**
+- 🚀 **Helm and Argo CD / GitOps**
+- 📊 **Prometheus and Grafana**
+- 🤖 **AI Infrastructure and GPU platform engineering**
+- 🏆 NVIDIA-Certified Associate: **AI Infrastructure and Operations**
+- 🛠️ Building practical engineering labs and projects continuously
