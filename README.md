@@ -1,6 +1,6 @@
 # 🙏 Namaste, I'm Nookireddi Dileep
 
-### Senior Linux & Infrastructure Engineer → Platform Engineering | Kubernetes, OpenShift, Linux and AI Infrastructure | Hands-on labs and learning resources
+### Senior Linux & Infrastructure Engineer → Platform Engineering | Kubernetes • OpenShift • Linux • AI Infrastructure
 
 I build and explore modern infrastructure platforms across **Enterprise Linux, Kubernetes, OpenShift and automation**.
 
