@@ -1,4 +1,4 @@
-# Hi, I'm Nookireddi Dileep 👋
+# Namaste, I'm Nookireddi Dileep 👋
 
 ### Senior Linux & HPC Infrastructure Engineer → OpenShift & Kubernetes Platform Engineering
 
