@@ -57,3 +57,5 @@ I'm taking that production discipline to **OpenShift and Kubernetes**, and every
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nookireddi_Dileep-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nookireddi-dileep-46307a19/) · Bengaluru, India
+
+🟢 **Open to OpenShift / Kubernetes platform engineering roles.**
