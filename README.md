@@ -19,7 +19,8 @@ I'm taking that production discipline to **OpenShift and Kubernetes**, and every
 | Repo | What you'll find |
 |---|---|
 | [**openshift-lab-records**](https://github.com/NookireddiDileep/openshift-lab-records) | **24 Jira-style stories + 4 RCAs** on a multi-node OpenShift 4.x cluster — Routes & Ingress, SCC / `restricted-v2`, PV/PVC & StatefulSets, HPA under load, blue-green & canary releases, builds, ImageStreams and registries. Plus a **77-scenario break-fix backlog** and a **~170-command `oc` reference**. CI-checked. |
-| [**infra-automation-lab**](https://github.com/NookireddiDileep/infra-automation-lab) | Automation track for RHEL and OpenShift: **Bash → Ansible → Python → Go**, with shellcheck CI, a gotchas log and an interview bank. In progress. |
+| [**infra-automation-lab**](https://github.com/NookireddiDileep/infra-automation-lab) | **A daily lab:** one real ops scenario solved end to end in **Bash, Ansible, Python and Go**, all four checked against the same golden tests in CI. The track runs from RHEL fleet ops to Kubernetes/OpenShift Day-2, GPU/HPC ops and AI platform architecture. |
+| [**project-arohan-ai**](https://github.com/NookireddiDileep/project-arohan-ai) | **AI infrastructure track:** GPU scheduling (filter/score, fragmentation, gang scheduling, NVIDIA KAI), AI inference reliability and Prometheus-based workload reliability on Kubernetes. Built as labs with failure injection and evidence. |
 
 **Start with:** [RCA-003 – app unreachable via Route, three faults](https://github.com/NookireddiDileep/openshift-lab-records/blob/main/rca/RCA-003-route-unreachable-three-faults.md) · [RCA-004 – CrashLoopBackOff under random-UID SCC](https://github.com/NookireddiDileep/openshift-lab-records/blob/main/rca/RCA-004-image-tag-and-root-only-httpd.md)
 
