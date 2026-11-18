@@ -19,6 +19,7 @@ I'm taking that production discipline to **OpenShift and Kubernetes**, and every
 | Repo | What you'll find |
 |---|---|
 | [**openshift-lab-records**](https://github.com/NookireddiDileep/openshift-lab-records) | **24 Jira-style stories + 4 RCAs** on a multi-node OpenShift 4.x cluster — Routes & Ingress, SCC / `restricted-v2`, PV/PVC & StatefulSets, HPA under load, blue-green & canary releases, builds, ImageStreams and registries. Plus a **77-scenario break-fix backlog** and a **~170-command `oc` reference**. CI-checked. |
+| [**kubernetes-labs**](https://github.com/NookireddiDileep/kubernetes-labs) | **Self-built Kubernetes:** 13 hands-on labs on my own K3s cluster (GCP), covering workloads, Services, ConfigMaps/Secrets, PV/PVC, StatefulSets, probes, RBAC, quotas and Ingress, plus 9 production troubleshooting scenarios, all with evidence. |
 | [**infra-automation-lab**](https://github.com/NookireddiDileep/infra-automation-lab) | **A daily lab:** one real ops scenario solved end to end in **Bash, Ansible, Python and Go**, all four checked against the same golden tests in CI. The track runs from RHEL fleet ops to Kubernetes/OpenShift Day-2, GPU/HPC ops and AI platform architecture. |
 | [**project-arohan-ai**](https://github.com/NookireddiDileep/project-arohan-ai) | **AI infrastructure track:** GPU scheduling (filter/score, fragmentation, gang scheduling, NVIDIA KAI), AI inference reliability and Prometheus-based workload reliability on Kubernetes. Built as labs with failure injection and evidence. |
 
